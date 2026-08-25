@@ -1,5 +1,8 @@
 # Dependencies (NEVER push node_modules to Git)
 node_modules/
+node_modules/
+Node_modules/
+.env
 /.pnp
 .pnp.js
 
