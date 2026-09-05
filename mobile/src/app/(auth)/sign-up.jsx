@@ -192,7 +192,7 @@ useEffect(() => {
       <TouchableOpacity onPress={onSignUpPress}>
         <Text>Sign up</Text>
         <View>
-          <Text>Here update</Text>
+          <Text>Here update there</Text>
         </View>
       </TouchableOpacity>
     </View>
